@@ -13,10 +13,10 @@
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS  
+**Frontend:** React.js, HTML, CSS, JavaScript 
 **Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Tools:** Git, GitHub, VS Code  
+**Database:** Firebase, Supabase  
+**Tools:** Git, GitHub, VS Code, Postman
 **Core Concepts:** Data Structures & Algorithms  
 
 ---
