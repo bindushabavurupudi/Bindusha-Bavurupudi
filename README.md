@@ -22,9 +22,9 @@
 
 ### 💻 Frontend
 - React.js  
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)
+- HTML
+- CSS
+- JavaScript 
 
 ### ⚙️ Backend
 - Node.js  
@@ -40,8 +40,6 @@
 - VS Code  
 - Postman  
 
-### 📚 Core Concepts
-- Data Structures & Algorithms  
 
 ---
 
