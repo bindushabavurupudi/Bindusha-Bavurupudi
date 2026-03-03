@@ -4,28 +4,53 @@
 ---
 
 ## 💫 About Me
-- 🔭 Building scalable MERN stack applications  
-- 🌱 Learning advanced Full Stack Development  
-- 🧠 Strong foundation in Data Structures & Algorithms  
-- 💻 Passionate about writing clean and optimized code  
-- 🚀 Always exploring modern web technologies  
+- 🔭 Currently building scalable **MERN Stack Applications**
+- 🌱 Learning **Advanced Full Stack Development**
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- 💻 Passionate about writing **clean, optimized, and efficient code**
+- 🚀 Exploring modern **Web Technologies & System Design**
+
+---
+
+## 🌐 Portfolio
+🚀 Check out my personal portfolio website:  
+🔗 [View Portfolio](https://bindushabavurupudi.github.io/Portfolio/)
 
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** React.js, HTML, CSS, JavaScript 
-**Backend:** Node.js, Express.js  
-**Database:** Firebase, Supabase  
-**Tools:** Git, GitHub, VS Code, Postman
-**Core Concepts:** Data Structures & Algorithms  
+
+### 💻 Frontend
+- React.js  
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+
+### 🗄️ Database
+- Firebase  
+- Supabase  
+
+### 🛠️ Tools & Platforms
+- Git  
+- GitHub  
+- VS Code  
+- Postman  
+
+### 📚 Core Concepts
+- Data Structures & Algorithms  
 
 ---
 
-
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/bindusha-bavurupudi
+- 💼 LinkedIn: [Bindusha Bavurupudi](https://www.linkedin.com/in/bindusha-bavurupudi)  
 - 📧 Email: bindushabavurupudi2006@gmail.com  
 
 ---
 
-⭐️ From [Bindusha Bavurupudi](https://github.com/bindushabavurupudi)
+<p align="center">
+  ⭐️ From <a href="https://github.com/bindushabavurupudi">Bindusha Bavurupudi</a>
+</p>
